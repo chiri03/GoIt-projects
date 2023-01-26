@@ -1,0 +1,40 @@
+body {
+  position: relative;
+  width: 1600px;
+  height: 2348px;
+
+  background: #ffffff;
+}
+
+.header {
+  position: absolute;
+  width: 1600px;
+  height: 80px;
+  left: 1px;
+  top: 0px;
+}
+
+.header-logo {
+  position: absolute;
+  width: 145px;
+  height: 31px;
+  left: 216px;
+  top: 24px;
+
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+
+  letter-spacing: 0.03em;
+
+  color: #2196f3;
+  list-style: none;
+  text-decoration: none;
+  border: none;
+}
+
+.header-logo a:link {
+  text-decoration: none;
+}
